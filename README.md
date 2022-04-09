@@ -14,3 +14,7 @@ Examples
 ---
 1. Searching line: 'ca'. All appropriate words: '**ca**t', '**ca**ble', 's**c**r**a**mble', 'Harmoni**ca**' and etc.
 2. Searching line: 'CA'. All appropriate words: '**CA**t', '**CA**T', 'c**C**a**A**tT' and etc.
+
+Example Dictionary
+---
+The project has a test dictionary 'words.txt.'
